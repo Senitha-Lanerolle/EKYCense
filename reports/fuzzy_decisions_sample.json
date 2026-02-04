@@ -1,0 +1,402 @@
+[
+  {
+    "name_a": "Sara Arianna Serhatli\u0107",
+    "name_b": "Nu\u021bi Balinca",
+    "lexical_similarity": 0.18181818181818177,
+    "semantic_similarity": 0.5211256742477417,
+    "fuzzy_score": 0.15227272727272717,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "OKROPILASHVILI AGABO",
+    "name_b": "OKROPILASHVILI-AGABO",
+    "lexical_similarity": 0.95,
+    "semantic_similarity": 0.9471421241760254,
+    "fuzzy_score": 0.8631475223336832,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "Pauline Richards",
+    "name_b": "No\u00ebl Faugeras",
+    "lexical_similarity": 0.25,
+    "semantic_similarity": 0.2769622206687927,
+    "fuzzy_score": 0.1711040632873164,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Ettore Rosato",
+    "name_b": "SANDRA D TRUMP",
+    "lexical_similarity": 0.1428571428571429,
+    "semantic_similarity": 0.5641588568687439,
+    "fuzzy_score": 0.1458646616541352,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Zoi Livaniou",
+    "name_b": "\u039b\u03b9\u03b2\u03b1\u03bd\u03af\u03bf\u03c5 \u0395\u03c5\u03b1\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5 \u0396\u03c9\u03ae",
+    "lexical_similarity": 0.045454545454545414,
+    "semantic_similarity": 0.413796991109848,
+    "fuzzy_score": 0.16502705421012442,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "CLAUDIO GOMES DA SILVA",
+    "name_b": "Kevin P. Anderson",
+    "lexical_similarity": 0.18181818181818177,
+    "semantic_similarity": 0.33040499687194824,
+    "fuzzy_score": 0.18315384954259425,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "AURINETE DE SOUSA VIANA",
+    "name_b": "AURINET EDE SOUSA VIANA",
+    "lexical_similarity": 0.9130434782608696,
+    "semantic_similarity": 0.8608529567718506,
+    "fuzzy_score": 0.847071205735749,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "Jessica Bahmuller",
+    "name_b": "Bahmuller, J",
+    "lexical_similarity": 0.3529411764705882,
+    "semantic_similarity": 0.5239320993423462,
+    "fuzzy_score": 0.4017997838555325,
+    "decision": "PARTIAL_MATCH"
+  },
+  {
+    "name_a": "JOSE PEREIRA DA COSTA",
+    "name_b": "JOSE PEREIRA DA CO5TA",
+    "lexical_similarity": 0.9523809523809523,
+    "semantic_similarity": 0.7798001766204834,
+    "fuzzy_score": 0.7340094330557758,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "MARIA ROSELY DE OLIVEIRA",
+    "name_b": "Alex Onzima",
+    "lexical_similarity": 0.25,
+    "semantic_similarity": 0.40688931941986084,
+    "fuzzy_score": 0.1669446605196683,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Luka Gakhokidze",
+    "name_b": "DOVIL\u0116 LUK\u0160\u0116",
+    "lexical_similarity": 0.06666666666666665,
+    "semantic_similarity": 0.6108273863792419,
+    "fuzzy_score": 0.13650793650793638,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "P\u00e1l Szab\u00f3",
+    "name_b": "Angie Miller",
+    "lexical_similarity": 0.08333333333333337,
+    "semantic_similarity": 0.20572002232074738,
+    "fuzzy_score": 0.1566228213388652,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "NADIR ANT\u00d4NIO BARBOSA",
+    "name_b": "NADIR ANT\u00d4NIO BAROBSA",
+    "lexical_similarity": 0.9047619047619048,
+    "semantic_similarity": 0.9870448112487793,
+    "fuzzy_score": 0.8605616605616602,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "JULIAN ALEXIS MANOSALVA HOLGUIN",
+    "name_b": "Leo Maupo Fuentes",
+    "lexical_similarity": 0.19354838709677424,
+    "semantic_similarity": 0.6774855852127075,
+    "fuzzy_score": 0.15437120149602612,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "INDR\u0116 ANDREJEV\u0116",
+    "name_b": "INDRE ANDREJEVE",
+    "lexical_similarity": 0.8666666666666667,
+    "semantic_similarity": 0.8950380682945251,
+    "fuzzy_score": 0.8545755360691728,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "JOHN LOWRY",
+    "name_b": "PAMELA YVETTE FLENTROY",
+    "lexical_similarity": 0.18181818181818177,
+    "semantic_similarity": 0.2584683299064636,
+    "fuzzy_score": 0.1671521593018384,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "JOAQUIM FIT\u00c9 I GIRV\u00c9S",
+    "name_b": "Antoni Horrach Morell",
+    "lexical_similarity": 0.1428571428571429,
+    "semantic_similarity": 0.5682775378227234,
+    "fuzzy_score": 0.1458646616541352,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Attila Berk\u00f3",
+    "name_b": "Berk\u00f3 Attila",
+    "lexical_similarity": 0.0,
+    "semantic_similarity": 0.9569127559661865,
+    "fuzzy_score": 0.49999999999999983,
+    "decision": "PARTIAL_MATCH"
+  },
+  {
+    "name_a": "CHRISTINA RENEA SEFERS SHANNON",
+    "name_b": "KELLY MICHELLE RUSSELL",
+    "lexical_similarity": 0.1333333333333333,
+    "semantic_similarity": 0.7241531014442444,
+    "fuzzy_score": 0.22763784448870591,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Pascal Fran\u00e7ois",
+    "name_b": "Olivier Maingain",
+    "lexical_similarity": 0.1875,
+    "semantic_similarity": 0.6573703289031982,
+    "fuzzy_score": 0.15328014184397157,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "PIRIZ VIVAS EDUARDO HOBERG",
+    "name_b": "Ranko Ki\u0161i\u0107",
+    "lexical_similarity": 0.15384615384615385,
+    "semantic_similarity": 0.46275633573532104,
+    "fuzzy_score": 0.152479355888537,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "LINDOMAR GASPAR DA SILVA",
+    "name_b": "\u0645\u062d\u0645\u062f \u062d\u0633\u064a\u0646 \u0645\u062d\u0645\u062f \u062e\u0644\u064a\u0644 \u0633\u0639\u062f",
+    "lexical_similarity": 0.04166666666666663,
+    "semantic_similarity": 0.5579472184181213,
+    "fuzzy_score": 0.1356311417210651,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Rowshan Ara Farid",
+    "name_b": "NOBERTO ROHLING",
+    "lexical_similarity": 0.17647058823529416,
+    "semantic_similarity": 0.3859524428844452,
+    "fuzzy_score": 0.1729460596682907,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "LUIS BENEDICTO HERRERA D\u00cdAZ",
+    "name_b": "Sonny F. Ozobialu",
+    "lexical_similarity": 0.14814814814814814,
+    "semantic_similarity": 0.45120570063591003,
+    "fuzzy_score": 0.15525849152780222,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "SERGIO OLIVER CALVENTE CALVENTE",
+    "name_b": "SERGIO OLIV\u00e9R CALVENTE CALVENTE",
+    "lexical_similarity": 0.967741935483871,
+    "semantic_similarity": 0.9526113271713257,
+    "fuzzy_score": 0.8637935654874828,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "SZLANDA PIOTR",
+    "name_b": "Khursheed Alam",
+    "lexical_similarity": 0.0,
+    "semantic_similarity": 0.36425554752349854,
+    "fuzzy_score": 0.1794377745389165,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "ASTA BUJIEN\u0116",
+    "name_b": "AGN\u0116 KUNDROT\u0116",
+    "lexical_similarity": 0.3076923076923077,
+    "semantic_similarity": 0.7151086330413818,
+    "fuzzy_score": 0.3016396163731939,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Donatus Nwabueze",
+    "name_b": "M\u00cdRIAM CORRAL PUERTO",
+    "lexical_similarity": 0.19999999999999996,
+    "semantic_similarity": 0.512681245803833,
+    "fuzzy_score": 0.15555555555555545,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Bernard Argenti",
+    "name_b": "Berard Argenti",
+    "lexical_similarity": 0.9333333333333333,
+    "semantic_similarity": 0.7832773327827454,
+    "fuzzy_score": 0.7490218502596996,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "JUAN LUIS TORRES FERN\u00c1NDEZ",
+    "name_b": "HANNAH ANDERSON",
+    "lexical_similarity": 0.23076923076923073,
+    "semantic_similarity": 0.2526586353778839,
+    "fuzzy_score": 0.16593658745461112,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Kafiluddin",
+    "name_b": "\u0643\u0641\u064a\u0644-\u0627\u0644\u062f\u064a\u0646",
+    "lexical_similarity": 0.0,
+    "semantic_similarity": 0.4077579975128174,
+    "fuzzy_score": 0.16670173282748185,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Valter Glavi\u010di\u0107",
+    "name_b": "Michel Leplard",
+    "lexical_similarity": 0.19999999999999996,
+    "semantic_similarity": 0.6246683597564697,
+    "fuzzy_score": 0.15555555555555545,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Detlev Eisel-Eiselsberg",
+    "name_b": "etlev Eisel-Eiselsberg",
+    "lexical_similarity": 0.9565217391304348,
+    "semantic_similarity": 0.9774985313415527,
+    "fuzzy_score": 0.8652458084683147,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "Du\u0161an Milisavljevi\u0107",
+    "name_b": "Vlastimir Jovanovi\u0107",
+    "lexical_similarity": 0.3157894736842105,
+    "semantic_similarity": 0.7818642854690552,
+    "fuzzy_score": 0.49009534395868,
+    "decision": "PARTIAL_MATCH"
+  },
+  {
+    "name_a": "Jaume Jan Vilanova",
+    "name_b": "DEBORAH KUHN-TAILL",
+    "lexical_similarity": 0.05555555555555558,
+    "semantic_similarity": 0.5407083034515381,
+    "fuzzy_score": 0.13768201938965102,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Owens Brown",
+    "name_b": "Owens Br0wn",
+    "lexical_similarity": 0.9090909090909091,
+    "semantic_similarity": 0.7939091324806213,
+    "fuzzy_score": 0.7992141960040171,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "\u0413\u0438\u0434\u0430\u044f\u0442 \u0425\u0443\u0434\u0443\u0448 \u043e\u0433\u043b\u044b \u041e\u0440\u0443\u0434\u0436\u043e\u0432",
+    "name_b": "\u041e\u0440\u0443\u0434\u0436\u043e\u0432 \u0413\u0438\u0434\u0430\u044f\u0442 \u0425\u0443\u0434\u0443\u0448 \u043e\u0433\u043b\u044b",
+    "lexical_similarity": 0.36,
+    "semantic_similarity": 0.9567474126815796,
+    "fuzzy_score": 0.743609022556391,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "TONJA YVETTE SCOTT",
+    "name_b": "CRYSTAL LYNN GIFFORD",
+    "lexical_similarity": 0.15000000000000002,
+    "semantic_similarity": 0.40307387709617615,
+    "fuzzy_score": 0.16801758391977983,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Stoyan Koshulev",
+    "name_b": "\u0421\u0442\u043e\u044f\u043d-\u041a\u043e\u0448\u0443\u043b\u0435\u0432",
+    "lexical_similarity": 0.0,
+    "semantic_similarity": 0.8437870740890503,
+    "fuzzy_score": 0.4999999999999999,
+    "decision": "PARTIAL_MATCH"
+  },
+  {
+    "name_a": "Neelam Deo",
+    "name_b": "\u0928\u0940\u0932\u092e \u0926\u0913",
+    "lexical_similarity": 0.09999999999999998,
+    "semantic_similarity": 0.4084317684173584,
+    "fuzzy_score": 0.1665136597470665,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Atif N. Wahba",
+    "name_b": "Atif N. Waha",
+    "lexical_similarity": 0.9230769230769231,
+    "semantic_similarity": 0.9048392176628113,
+    "fuzzy_score": 0.8564816990396592,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "LUCAS FARIAS BARRETO SOUZA",
+    "name_b": "St\u00e9phane Poineau",
+    "lexical_similarity": 0.15384615384615385,
+    "semantic_similarity": 0.46781131625175476,
+    "fuzzy_score": 0.15130269488321926,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Peter Luvass",
+    "name_b": "Petre Luvass",
+    "lexical_similarity": 0.8333333333333334,
+    "semantic_similarity": 0.8823739290237427,
+    "fuzzy_score": 0.8503267973856209,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "Ewa Leniart",
+    "name_b": "Ewa Maria eLniart",
+    "lexical_similarity": 0.5882352941176471,
+    "semantic_similarity": 0.6463526487350464,
+    "fuzzy_score": 0.5000000000000001,
+    "decision": "PARTIAL_MATCH"
+  },
+  {
+    "name_a": "HECTOR PRATS BARREDA",
+    "name_b": "HECTOR-PRATS-BARREDA",
+    "lexical_similarity": 0.9,
+    "semantic_similarity": 0.7696197032928467,
+    "fuzzy_score": 0.6935748430932535,
+    "decision": "PARTIAL_MATCH"
+  },
+  {
+    "name_a": "I\u00d1IGO DE LOYOLA ORTUZAR ANGULO",
+    "name_b": "I\u00d1IGO DE LYOLA ORTUZAR ANGULO",
+    "lexical_similarity": 0.9666666666666667,
+    "semantic_similarity": 0.9847068786621094,
+    "fuzzy_score": 0.8658119658119655,
+    "decision": "MATCH"
+  },
+  {
+    "name_a": "Irakli Mikiashvili",
+    "name_b": "HORAK PATRYK",
+    "lexical_similarity": 0.2222222222222222,
+    "semantic_similarity": 0.4503471255302429,
+    "fuzzy_score": 0.15978835978835979,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Tung Wei Pan",
+    "name_b": "NELSON PRESTES DE OLIVEIRA",
+    "lexical_similarity": 0.15384615384615385,
+    "semantic_similarity": 0.16060233116149902,
+    "fuzzy_score": 0.14866987841516072,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "Oscar L\u00f3pez Rivera",
+    "name_b": "Jo\u00ebl Pedarribes",
+    "lexical_similarity": 0.2777777777777778,
+    "semantic_similarity": 0.4094921946525574,
+    "fuzzy_score": 0.17128111718275651,
+    "decision": "NO_MATCH"
+  },
+  {
+    "name_a": "ANA J\u00daLIA PIRES RIBEIRO",
+    "name_b": "TROJAN DAWID",
+    "lexical_similarity": 0.17391304347826086,
+    "semantic_similarity": 0.5683578252792358,
+    "fuzzy_score": 0.15090030742204644,
+    "decision": "NO_MATCH"
+  }
+]

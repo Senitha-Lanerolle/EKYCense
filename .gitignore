@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# OS
+.DS_Store
+
+# Data & artifacts (NEVER COMMIT)
+data/
+models/
+*.parquet
+*.csv
+*.nt
+*.jar
+
+# Secrets
+.env
+.env.*

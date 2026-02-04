@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.9753488864926857,
+  "precision": 0.9847009912033868,
+  "recall": 0.9658357680114378,
+  "f1": 0.9751771491693288,
+  "roc_auc": 0.9945530502116032,
+  "features": [
+    "len_a",
+    "len_b",
+    "len_diff",
+    "tok_jaccard",
+    "fuzz_ratio",
+    "fuzz_wratio",
+    "tok_sort",
+    "tok_set",
+    "ascii_ratio",
+    "jaro_winkler",
+    "lev_sim",
+    "embed_cosine"
+  ]
+}
