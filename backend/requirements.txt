@@ -1,0 +1,30 @@
+fastapi
+uvicorn[standard]
+
+# Config / settings
+pydantic
+pydantic-settings
+python-dotenv
+
+# Database
+sqlalchemy
+
+# Numerical / ML stack
+numpy
+pandas
+scikit-learn
+torch
+sentence-transformers
+joblib
+pyarrow
+
+# Fuzzy matching & string similarity
+rapidfuzz
+scikit-fuzzy
+jellyfish
+
+# HTTP client used in seed scripts
+requests
+
+# File upload handling
+python-multipart
